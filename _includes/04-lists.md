@@ -2,5 +2,5 @@
 * The Name of the Wind
   * **Kvothe** is a great, _moody_ character
 * Harry Potter
-  * Hermione
+  * Hermione :girl:
   * Luna
