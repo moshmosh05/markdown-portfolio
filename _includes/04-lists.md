@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Pride & Prejudice
+* The Name of the Wind
+  * **Kvothe** is a great, _moody_ character
+* Harry Potter
+  * Hermione
+  * Luna
